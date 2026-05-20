@@ -565,7 +565,7 @@ def admin_page(username):
 def main():
     while True:
         print("\n=== Authentication System ===")
-        print("===Login Page ===")
+        print("=== Login Page ===")
         print("1. Register new user")
         print("2. Login")
         print("3. Exit")
